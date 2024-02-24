@@ -4,10 +4,18 @@ The dataset used here is Tiny Shakespeare dataset, which contains all of Shakesp
 
 Concepts implemented - Transformer Architecture, Self-attention mechanism (decoder-attention), multi-headed self attention, residual connections, layernorm.
 
-YouTube video link -
-[Andrej Karapathy tutorial](https://www.youtube.com/watch?v=kCc8FmEb1nY)
+<br>
+<be>
+
+Also explore,
+
+[![Google Colab Notebook](https://img.shields.io/badge/-Google_Colab_Notebook-05122A?style=flat&logo=googlecolab)](https://colab.research.google.com/drive/15UVgF8EPNkzIt85f1o6W81rCk5JtQ-yJ?usp=sharing)
+
+YouTube video -
+[Let's build GPT: from scratch, in code, spelled out](https://www.youtube.com/watch?v=kCc8FmEb1nY) - by Andrej Karapathy
 
 <br>
-<br>
+
+----
 
 p.s. Thank You for an amazing tutorial [@AndrejKarpathy](https://www.youtube.com/@AndrejKarpathy)
