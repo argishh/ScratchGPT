@@ -18,4 +18,4 @@ YouTube video -
 
 ----
 
-p.s. Thank You for an amazing tutorial [@AndrejKarpathy](https://www.youtube.com/@AndrejKarpathy)
+p.s. Thank You for an amazing tutorial [@AndrejKarpathy](https://github.com/karpathy)
