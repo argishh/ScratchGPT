@@ -9,7 +9,7 @@ Concepts implemented - Transformer Architecture, Self-attention mechanism (decod
 
 Also explore,
 
-Google Colab notebook explaining the used approach \
+Google Colab notebook explaining the used approach - \
 [![Google Colab Notebook](https://img.shields.io/badge/-Google_Colab_Notebook-05122A?style=flat&logo=googlecolab)](https://colab.research.google.com/drive/15UVgF8EPNkzIt85f1o6W81rCk5JtQ-yJ?usp=sharing)
 
 YouTube tutorial -
